@@ -11,7 +11,7 @@ const AboutUs = () => {
 
         <div className="app__aboutus-content flex__center">
             <div className="app__aboutus-content_about">
-            <h1 className="headtext__cormorant">mm</h1>
+            <h1 className="headtext__cormorant">What We Offer</h1>
                 <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra adipiscing ultrices vulputate posuere tristique. In sed odio nec aliquet eu proin mauris et.</p>
                 <button type="button" className="custom__button">Know More</button>
             </div>
